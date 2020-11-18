@@ -19,6 +19,8 @@
 
 </div>
 
+<img src=".github/assets/images/preview.gif" alt="Preview" width="100%">
+
 ### Sobre o projeto
 
 ### Features
