@@ -5,6 +5,7 @@
     </h2>
     Readme padrão para os meus repositórios
 </div>
+<br>
 <div align="center">
 
 [![](https://img.shields.io/badge/-Sobre-blue)](#sobre-o-projeto)
