@@ -1,3 +1,4 @@
+<br>
 <div align="center">
     <img src=".github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
     <h2>
@@ -12,14 +13,15 @@
 [![](https://img.shields.io/badge/-Features-5276F2)](#features)
 [![](https://img.shields.io/badge/-Começando-5276F2)](#começando)
 [![](https://img.shields.io/badge/-Contribuir-5276F2)](#como-contribuir)
-
+<br>
 [![](https://img.shields.io/badge/-Contribuidores-000066)](#contribuidores)
 [![](https://img.shields.io/badge/-Licença-000066)](#licença)
 [![](https://img.shields.io/badge/-Autores-000066)](#desenvolvido-por-)
 
 </div>
-
+<br>
 <img src=".github/assets/images/preview.gif" alt="Preview" width="100%">
+<br>
 
 ## Sobre o projeto
 
