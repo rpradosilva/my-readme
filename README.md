@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-    <img src=".github/assets/images/logo-rprado.png" alt="Logo Repo" width="150">
+    <img src="https://avatars.githubusercontent.com/u/87092922" alt="Logo Repo" width="80">
     <h2>
         My readme
     </h2>
@@ -9,14 +9,14 @@
 <br>
 <div align="center">
 
-[![](https://img.shields.io/badge/-Sobre-5276F2)](#sobre-o-projeto)
-[![](https://img.shields.io/badge/-Features-5276F2)](#features)
-[![](https://img.shields.io/badge/-Começando-5276F2)](#começando)
-[![](https://img.shields.io/badge/-Contribuir-5276F2)](#como-contribuir)
+[![](https://img.shields.io/badge/-Sobre-021826)](#sobre-o-projeto)
+[![](https://img.shields.io/badge/-Features-021826)](#features)
+[![](https://img.shields.io/badge/-Começando-021826)](#começando)
+[![](https://img.shields.io/badge/-Contribuir-021826)](#como-contribuir)
 <br>
-[![](https://img.shields.io/badge/-Contribuidores-000066)](#contribuidores)
-[![](https://img.shields.io/badge/-Licença-000066)](#licença)
-[![](https://img.shields.io/badge/-Autores-000066)](#desenvolvido-por-)
+[![](https://img.shields.io/badge/-Contribuidores-00080D)](#contribuidores)
+[![](https://img.shields.io/badge/-Licença-00080D)](#licença)
+[![](https://img.shields.io/badge/-Autores-00080D)](#desenvolvido-por-)
 
 </div>
 <br>
@@ -65,4 +65,4 @@ Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os
 
 ---
 
-### Desenvolvido por [<img alt="Logo RPrado" src=".github/assets/images/logo-rprado.png" width="91px" />](http://rprado.design)
+[<img alt="Logo RPrado" src="https://avatars.githubusercontent.com/u/87092922" width="64" />](http://rprado.design)
