@@ -65,4 +65,4 @@ Facilitar o desenvolvimento de um readme, de maneira visual e que tenha todos os
 
 ---
 
-[<img alt="Logo RPrado" src="https://avatars.githubusercontent.com/u/87092922" width="64" />](http://rprado.design)
+[<img alt="Logo RPrado" src="https://avatars.githubusercontent.com/u/87092922" width="40" />](http://rprado.design)
